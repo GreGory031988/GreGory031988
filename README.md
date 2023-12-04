@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there :hand::smiley: Welcome to my profile :wave:
+
+### My name is Grigorii! I live in Yekaterinburg  :ru:.
+
+### I learn Java at :point_right: [Job4j](https://job4j.ru/) 
+
+<b>Core technologies:</b>
 
 <!--
 **GreGory031988/GreGory031988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
